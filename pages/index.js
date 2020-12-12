@@ -14,10 +14,10 @@ export default function Home() {
         <p>Hello, I'm Mohameth. I'm a Software Engineer and self taught inventor. I enjoy working on both the frontend and backend for both mobile and web applications. 
           I have a strong interest for design and overall product development. 
         </p>
-        <p>
+        {/* <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        </p> */}
 
         <p><Link href="/posts/first-post"><a>Resume</a></Link></p>
         <p>My Projects <Link href="/posts/first-post"><a>Here</a></Link></p>
