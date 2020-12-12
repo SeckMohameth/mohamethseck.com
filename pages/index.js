@@ -19,10 +19,9 @@ export default function Home() {
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p> */}
 
-        <p><Link href="/posts/first-post"><a>Resume</a></Link></p>
-        <p>My Projects <Link href="/posts/first-post"><a>Here</a></Link></p>
-        <p>My Blogs Posts <Link href="/posts/first-post"><a>Here</a></Link></p>
-        <p>UX/UI - case studies and side projects <Link href="/posts/first-post"><a>Here</a></Link></p>
+        <p><Link href="/projects/first-post"><a>Resume</a></Link></p>
+        <p>My Projects <Link href="/projects/first-post"><a>Here</a></Link></p>
+        <p>UX/UI - Spotify case study <Link href="https://medium.com/@mohamethseck/putting-myself-in-the-designers-shoes-ui-ux-698bbe0f02ef"><a>Here</a></Link></p>
         <br />
         <p>Put contact section with just your email and all your social media links. Also show media and podcast you were in</p>
 
