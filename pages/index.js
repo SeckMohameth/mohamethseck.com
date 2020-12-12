@@ -21,7 +21,7 @@ export default function Home() {
 
         <p><Link href="/projects/first-post"><a>Resume</a></Link></p>
         <p>My Projects <Link href="/projects/first-post"><a>Here</a></Link></p>
-        <p>UX/UI - Spotify case study <Link href="https://medium.com/@mohamethseck/putting-myself-in-the-designers-shoes-ui-ux-698bbe0f02ef"><a>Here</a></Link></p>
+        <p>UX/UI - Spotify case study <Link href="https://medium.com/@mohamethseck/putting-myself-in-the-designers-shoes-ui-ux-698bbe0f02ef" target="_blank"><a>Here</a></Link></p>
         <br />
         <p>Put contact section with just your email and all your social media links. Also show media and podcast you were in</p>
 
