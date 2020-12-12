@@ -9,9 +9,10 @@ export default function FirstPost() {
         <Head>
             <title>Projects</title>
         </Head>
-            <h1>Final Holberton Project:  <Link href="https://github.com/SeckMohameth/hopeful-cosmos">Hopeful Cosmos</Link></h1>
-            <h1>Video sharing app:  <Link href="https://github.com/SeckMohameth/VRS-2020" >VRS (Currently developing)</Link></h1>
-            <h1>Vers: <Link href="https://github.com/SeckMohameth/Vers-2016-2019" >2016 - 2019 project</Link></h1>
+        <h1>Projects</h1>
+            <p>Final Holberton Project:  <Link href="https://github.com/SeckMohameth/hopeful-cosmos">Hopeful Cosmos</Link></p>
+            <p>Video sharing app:  <Link href="https://github.com/SeckMohameth/VRS-2020" >VRS (Currently developing)</Link></p>
+            <p>Vers: <Link href="https://github.com/SeckMohameth/Vers-2016-2019" >2016 - 2019 project</Link></p>
 
     </Layout>
     </>
