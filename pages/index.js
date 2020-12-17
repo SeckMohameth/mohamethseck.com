@@ -17,7 +17,7 @@ export default function Home() {
         <p>Currently my focus is centered around web and mobile apps. I am also studying iOS development on the side and am enthusiastic about AR/VR. I have some experience using 
           a wide variety of design tools such as, Invision, Figma, Sketch, Framer and Adobe XD. UX design is also another field I'm looking to excel in.</p>
 
-        <p><Link href="/projects/first-post"><a>Resume</a></Link></p>
+        <p><a href="https://drive.google.com/file/d/1v7v00oFQmRC0wHMW0LRCERVILBbQHFUV/view?usp=sharing" target="_blank">Resume</a></p>
         <p>My Projects <Link href="/projects/first-post"><a>Here</a></Link></p>
         <p>Blog: <a href="https://medium.com/@mohamethseck" target="_blank"><a>Medium</a></a></p>
         <p>UX/UI - Spotify case study <a href="https://medium.com/@mohamethseck/putting-myself-in-the-designers-shoes-ui-ux-698bbe0f02ef" target="_blank"><a>Here</a></a></p>
