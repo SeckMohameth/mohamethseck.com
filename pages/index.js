@@ -21,7 +21,7 @@ export default function Home() {
         <p>UX/UI - Spotify case study <a href="https://medium.com/@mohamethseck/putting-myself-in-the-designers-shoes-ui-ux-698bbe0f02ef" target="_blank"><a>Here</a></a></p>
         <p>Podcast: <Link href="/podcast/podcast-ep"><a>Listen Here!</a></Link></p>
 
-        <p><a href="https://www.linkedin.com/in/mrseck/" target="_blank">LinkedIn</a>| <a href="https://twitter.com/seck_mohameth" target="_blank">Twitter</a>| <a href="https://github.com/SeckMohameth" target="_blank">GitHub| </a> <a href="https://www.instagram.com/m0ney.m0/" target="_blank"></a></p>
+        <p><a href="https://www.linkedin.com/in/mrseck/" target="_blank">LinkedIn</a>| <a href="https://twitter.com/seck_mohameth" target="_blank">Twitter</a>| <a href="https://github.com/SeckMohameth" target="_blank">GitHub</a>| <a href="https://www.instagram.com/m0ney.m0/" target="_blank">Instagram</a></p>
 
       </section>
     </Layout>
