@@ -30,7 +30,7 @@ export default function FirstPost() {
             <p>University of Hartford: <a href="https://github.com/SeckMohameth/UHart-Web-Dev-Portfolio" target="_blank">Web Dev Class</a></p>
 
             <hr />
-            <p>Below are repos I</p>
+            <p>You can find more repos I worked on throughout the course of my studies at Holberton School. Code there shows task we worked on using C, Python, and Javascript.</p>
 
     </Layout>
     </>
