@@ -21,9 +21,11 @@ export default function Home() {
 
         <p><Link href="/projects/first-post"><a>Resume</a></Link></p>
         <p>My Projects <Link href="/projects/first-post"><a>Here</a></Link></p>
+        <p>Blog: <a href="https://medium.com/@mohamethseck" target="_blank"><a>Medium</a></a></p>
         <p>UX/UI - Spotify case study <a href="https://medium.com/@mohamethseck/putting-myself-in-the-designers-shoes-ui-ux-698bbe0f02ef" target="_blank"><a>Here</a></a></p>
         <p>Podcast: <Link href="/podcast/podcast-ep"><a>Listen Here!</a></Link></p>
-        {/* <p>Put contact section with just your email and all your social media links. Also show media and podcast you were in</p> */}
+
+        <p><a href="https://www.linkedin.com/in/mrseck/" target="_blank">LinkedIn</a>| <a href="https://twitter.com/seck_mohameth" target="_blank">Twitter</a>| <a href="https://github.com/SeckMohameth" target="_blank">GitHub</a></p>
 
       </section>
     </Layout>
