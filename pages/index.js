@@ -11,9 +11,11 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm Mohameth. I'm a Software Engineer and self taught inventor. I enjoy working on both the frontend and backend for both mobile and web applications. 
+        <p>Hello, I'm Mohameth. I'm a Full Stack Software Engineer and self taught inventor. I enjoy working on both the frontend and backend for both mobile and web applications. 
           I have a strong interest for design and overall product development. 
         </p>
+        <p>Currently my focus is centered around web and mobile apps. I am also studying iOS development on the side and am enthusiastic about AR/VR. I have some experience using 
+          a wide variety of design tools such as, Invision, Figma, Sketch, Framer and Adobe XD. UX design is also another field I'm looking to excel in.</p>
 
         <p><Link href="/projects/first-post"><a>Resume</a></Link></p>
         <p>My Projects <Link href="/projects/first-post"><a>Here</a></Link></p>
