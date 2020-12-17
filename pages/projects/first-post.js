@@ -15,13 +15,13 @@ export default function FirstPost() {
             <p>Final Holberton Project:  <a href="https://github.com/SeckMohameth/hopeful-cosmos" target="_blank">Hopeful Cosmos</a></p>
             <p>Video sharing app:  <a href="https://github.com/SeckMohameth/VRS-2020" target="_blank">VRS (Currently developing)</a></p>
             <ul>
-                <li><a href="https://framer.com/projects/VRS-Mobile--6SrP71ykGg7GBjRU2fAf-hMM21">Framer</a> Prototype</li>
+                <li><a href="https://framer.com/projects/VRS-Mobile--6SrP71ykGg7GBjRU2fAf-hMM21" target="_blank">Framer</a> Prototype</li>
             </ul>
             <p>Vers: <a href="https://github.com/SeckMohameth/Vers-2016-2019" target="_blank">2016 - 2019 project</a></p>
 
             <p>Jambar/Sene - Freelancing site: <a href="https://github.com/SeckMohameth/Sene" target="_blank">Github Repo</a> Will turn it into something else maybe (Heads up, NOT responsive 😅)</p>
             <ul>
-                <li><a href="https://jambar.vercel.app/">Live site</a></li>
+                <li><a href="https://jambar.vercel.app/" target="_blank">Live site</a></li>
             </ul>
 
             <p>Netflix Clone: <a href="https://github.com/SeckMohameth/netflix-clone-React-Frontend" target="_blank">Frontend w/React.js</a></p>
