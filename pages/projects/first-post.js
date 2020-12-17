@@ -16,6 +16,11 @@ export default function FirstPost() {
             <p>Video sharing app:  <a href="https://github.com/SeckMohameth/VRS-2020" target="_blank">VRS (Currently developing)</a></p>
             <p>Vers: <a href="https://github.com/SeckMohameth/Vers-2016-2019" target="_blank">2016 - 2019 project</a></p>
 
+            <p>Jambar/Sene - Freelancing site: <a href="https://github.com/SeckMohameth/Sene" target="_blank">Github Repo</a> Will turn it into something else maybe (Heads up, NOT responsive 😅)</p>
+            <ul>
+                <li><a href="https://jambar.vercel.app/">Live site</a></li>
+            </ul>
+
             <p>Netflix Clone: <a href="https://github.com/SeckMohameth/netflix-clone-React-Frontend" target="_blank">Frontend w/React.js</a></p>
             <p>Journal (EJS, Node, express, bootstrap): <a href="https://github.com/SeckMohameth/Journal" target="_blank">Project</a></p>
             <p>Authentication: <a href="https://github.com/SeckMohameth/Authentication-Secrets" target="_blank">Secrets</a></p>
@@ -24,6 +29,8 @@ export default function FirstPost() {
             <p>ToDoList (gotta have one of those): <a href="https://github.com/SeckMohameth/ToDoList" target="_blank">Project</a></p>
             <p>University of Hartford: <a href="https://github.com/SeckMohameth/UHart-Web-Dev-Portfolio" target="_blank">Web Dev Class</a></p>
 
+            <hr />
+            <p>Below are repos I</p>
 
     </Layout>
     </>
