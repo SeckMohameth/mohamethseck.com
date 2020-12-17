@@ -10,7 +10,7 @@ export default function FirstPost() {
             <title>Projects</title>
         </Head>
         <h1>Projects</h1>
-        <p>The links below will open a window to the GitHub repos along with a README detailing the project. Some projects will have an url taking you to the live site.</p>
+        <p>The links below will open a window to the GitHub repos along with a README detailing the project. Some project READMEs will have an url taking you to the live site.</p>
         <br />
             <p>Final Holberton Project:  <a href="https://github.com/SeckMohameth/hopeful-cosmos" target="_blank">Hopeful Cosmos</a></p>
             <p>Video sharing app:  <a href="https://github.com/SeckMohameth/VRS-2020" target="_blank">VRS (Currently developing)</a></p>
